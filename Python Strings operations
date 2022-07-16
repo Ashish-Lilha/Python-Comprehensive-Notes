@@ -1,0 +1,15 @@
+
+
+#capitalize
+a = "jai ho MaRatha"
+print(a.capitalize())
+
+####Jai ho maratha
+
+#casefold
+a = "jai ho MaRatha"
+print(a.casefold())
+
+####jai ho maratha
+
+
